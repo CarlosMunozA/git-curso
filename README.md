@@ -1,0 +1,3 @@
+# git-curso
+Proyecto por GIT
+es mi primer proyecto con GIT, aprendiendo...
